@@ -7,17 +7,6 @@ Currently working on my **Magnum Opus projects** — a set of C++ & Java/Spring 
 
 ---
 
-## 🚀 What I’m Building
-
-- 🌸 **PrimRoseHTTP** → HTTP 1.1 Server built with Java & Netty.
-- 🔒 **Shiloh** → Secure HATEOAS REST API with PostgreSQL & Cookie-based auth.
-- 🔐 **Mizpah** → Spring Security project (JWT & OAuth2 authentication).  
-- 🛰️ **Seraphim** → SpringBoot & Apache Lucene based Document Search Engine & Information Retrieval System.
-- 🕊️ **Cherubim** → API Gateway + Service Discovery project with SpringBoot.
-- 🏛️ **Zion** →  "CQRS + Event Sourcing Banking System" – SpringBoot, Apache Kafka & Quartz Scheduler project.
-
----
-
 ## 🛠️ Tech Toolbox
 
 **Languages:**    
@@ -40,20 +29,19 @@ Currently working on my **Magnum Opus projects** — a set of C++ & Java/Spring 
 ---
 
 ## 🎯 Current Focus
-- Mastering **Java + Spring Boot** (Security, Data JPA, Batch, Cloud)  
+- Mastering **Java + Spring Boot** (REST APIs, Security, Data JPA, Batch, Cloud)  
 - Building **enterprise-ready REST APIs** with PostgreSQL  
 - Diving deeper into **System Design & Distributed Systems**  
 
 ---
 
 ## ⚡ Fun Side
-- 🏋️ Kettlebell & Macebell training enthusiast  
+- 🏋️ Calisthenics, Cross-fit & Kettlebell training enthusiast  
 - 🔥 Discipline-driven learner (intermittent fasting + deep work)  
-- 🎶 Always coding with music on  
+- 🎶 Always coding with music on
 
 ---
 
 ## 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souradip-patra-31574a253/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](your-link-here)  
 [![Email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=red)](mailto:souradip.patra.2004@gmail.com)  
