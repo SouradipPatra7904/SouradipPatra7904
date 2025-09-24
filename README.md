@@ -42,8 +42,10 @@ Currently working on my **Magnum Opus projects** — a set of Java & Spring Boot
   <!-- Servers & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo" />
   <img width="12" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
   <img width="12" />
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
 
