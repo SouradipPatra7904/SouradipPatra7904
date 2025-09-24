@@ -5,11 +5,10 @@
 
 I’m a **Backend Engineer in the making** with a passion for **systems programming**, **distributed backends**, and **enterprise-grade Java applications**.  
 Currently working on my **Magnum Opus projects** — a set of Java/Spring Boot and C++ projects designed to master the full backend ecosystem. 
-
-
+---
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=SouradipPatra7904&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouradipPatra7904&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
-
+---
 ###
 <br/>
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmU1aTI2c214eXpicG1icXY3cWNnem1ob2ZxdjZkd2FjMmhxMHFyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/boYxZ1fa72kcgr70sN/giphy.gif"  />
