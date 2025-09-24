@@ -22,7 +22,7 @@ Currently working on my **Magnum Opus projects** — a set of Java & Spring Boot
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring boot logo" />
+  <img src="https://spring.io/img/projects/spring-boot.svg" height="40" alt="spring boot logo" />
   <img width="12" />
   <img src="https://www.jbang.dev/assets/images/icon.png" height="40" alt="JBang logo" />
   <img width="12" />
@@ -49,6 +49,19 @@ Currently working on my **Magnum Opus projects** — a set of Java & Spring Boot
 
   <!-- Systems & Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img width="12" />
+
+  <!-- Shells -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" style="filter: brightness(0) invert(1);" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" height="40" alt="Zsh logo" style="filter: brightness(0) invert(1);" />
+  <img width="12" />
+
+  <!-- Git & GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" style="filter: brightness(0) invert(1);" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" style="filter: brightness(0) invert(1);" />
+
   <img width="12" />
 
   <!-- Web & Frontend -->
