@@ -23,8 +23,7 @@ Currently working on my **Magnum Opus projects** — a set of C++ & Java/Spring 
 ---
 
 ## 📊 GitHub by the Numbers
-![Souradip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouradipPatra7904&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SouradipPatra7904&layout=compact&theme=radical)  
+![Souradip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouradipPatra7904&show_icons=true&theme=radical)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SouradipPatra7904&layout=compact&theme=radical)  
 
 ---
 
