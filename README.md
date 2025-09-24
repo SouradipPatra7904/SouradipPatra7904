@@ -1,10 +1,9 @@
-
-  Hello, Souradip Patra here 👋
+**Hello, Souradip Patra here 👋**
 
 > "Building from bare metal to enterprise scale."  
 
 I’m a **Backend Engineer in the making** with a passion for **systems programming**, **distributed backends**, and **enterprise-grade Java applications**.  
-Currently working on my **Magnum Opus projects** — a set of Java/Spring Boot and C++ projects designed to master the full backend ecosystem. 
+Currently working on my **Magnum Opus projects** — a set of Java & Spring Boot projects designed to master the full backend enterprise ecosystem. 
 
 ---
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=SouradipPatra7904&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
@@ -49,15 +48,6 @@ Currently working on my **Magnum Opus projects** — a set of Java/Spring Boot a
   <img width="12" />
 
   <!-- Systems & Core Languages -->
-  <!-- Core Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
 
@@ -79,6 +69,15 @@ Currently working on my **Magnum Opus projects** — a set of Java/Spring Boot a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse / Spring Tool Suite logo" />
   <img width="12" />
 
+  <!-- Languages with lesser expertise -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+
+  
 </div>
 
 
