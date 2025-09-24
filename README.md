@@ -29,7 +29,7 @@ Currently working on my **Magnum Opus projects** — a set of Java/Spring Boot a
   <!-- Databases & Networking -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/473791?s=200&v=4" height="40" alt="netty logo" /> <!-- Netty (no devicon, using GH org avatar) -->
+  <img src="https://avatars.githubusercontent.com/u/473791?s=200&v=4" height="40" alt="netty logo" />
   <img width="12" />
 
   <!-- Build Tools & ORM -->
@@ -47,9 +47,16 @@ Currently working on my **Magnum Opus projects** — a set of Java/Spring Boot a
   <img width="12" />
 
   <!-- Systems & Core Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <!-- Core Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
 
   <!-- Web & Frontend -->
