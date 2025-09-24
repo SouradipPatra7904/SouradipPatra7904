@@ -1,46 +1,85 @@
-# 👋 Hey, I’m Souradip Patra  
+<h4 align="left">
+  Hello, Souradip Patra here 👋 </h4>
 
 > "Building from bare metal to enterprise scale."  
 
 I’m a **Backend Engineer in the making** with a passion for **systems programming**, **distributed backends**, and **enterprise-grade Java applications**.  
-Currently working on my **Magnum Opus projects** — a set of C++ & Java/Spring Boot projects designed to master the full backend ecosystem.  
+Currently working on my **Magnum Opus projects** — a set of Java/Spring Boot and C++ projects designed to master the full backend ecosystem. 
 
----
 
-## 🛠️ Tech Toolbox
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=SouradipPatra7904&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouradipPatra7904&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
 
-**Languages:**    
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+###
+<br/>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmU1aTI2c214eXpicG1icXY3cWNnem1ob2ZxdjZkd2FjMmhxMHFyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/boYxZ1fa72kcgr70sN/giphy.gif"  />
 
-**Frameworks & Tools:**  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+###
+<div align="left">
+  <!-- Core Java & Spring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring boot logo" />
+  <img width="12" />
+  <img src="https://www.jbang.dev/assets/images/icon.png" height="40" alt="JBang logo" />
+  <img width="12" />
 
----
+  <!-- Databases & Networking -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/473791?s=200&v=4" height="40" alt="netty logo" /> <!-- Netty (no devicon, using GH org avatar) -->
+  <img width="12" />
 
-## 📊 GitHub by the Numbers
-![Souradip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouradipPatra7904&show_icons=true&theme=radical)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SouradipPatra7904&layout=compact&theme=radical)  
+  <!-- Build Tools & ORM -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="hibernate logo" />
+  <img width="12" />
 
----
+  <!-- Servers & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
 
-## 🎯 Current Focus
-- Mastering **Java + Spring Boot** (REST APIs, Security, Data JPA, Batch, Cloud)  
-- Building **enterprise-ready REST APIs** with PostgreSQL  
-- Diving deeper into **System Design & Distributed Systems**  
+  <!-- Systems & Core Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
 
----
+  <!-- Web & Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 
-## ⚡ Fun Side
-- 🏋️ Calisthenics, Cross-fit & Kettlebell training enthusiast  
-- 🔥 Discipline-driven learner (intermittent fasting + deep work)  
-- 🎶 Always coding with music on
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse / Spring Tool Suite logo" />
+  <img width="12" />
 
----
+</div>
 
-## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souradip-patra-31574a253/)  
-[![Email](https://img.shields.io/badge/Email-white?logo=gmail&logoColor=red)](mailto:souradip.patra.2004@gmail.com)  
+
+###
+
+###
+
+<div align="left">
+  
+  <a href="https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/souradip-patra-31574a253/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+  <a href="mailto:souradip.patra.2004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
+  <a href="https://www.instagram.com/iblamepatro/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a>
+</div>
