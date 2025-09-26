@@ -27,12 +27,18 @@ Currently working on my **Magnum Opus projects** — a set of Java & Spring Boot
   <img src="https://www.jbang.dev/assets/images/icon.png" height="40" alt="JBang logo" />
   <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/neo4j.svg" height="40" alt="JBang logo" />
+  <img width="12" />
+
   <!-- Databases & Networking -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flyway_logo.svg/1260px-Flyway_logo.svg.png?20210210163603" height="40" alt="netty logo" />
+  <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/473791?s=200&v=4" height="40" alt="netty logo" />
   <img width="12" />
-
+  
+  
   <!-- Build Tools & ORM -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven logo" />
   <img width="12" />
@@ -66,6 +72,7 @@ Currently working on my **Magnum Opus projects** — a set of Java & Spring Boot
 
   <img width="12" />
 
+  <!-- API specifications -->
   <!-- Web & Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
