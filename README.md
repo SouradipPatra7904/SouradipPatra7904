@@ -13,7 +13,7 @@ Currently working on my **Enterprise Eye-catcher Projects** — a set of Java & 
 
 ###
 <br/>
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmU1aTI2c214eXpicG1icXY3cWNnem1ob2ZxdjZkd2FjMmhxMHFyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/boYxZ1fa72kcgr70sN/giphy.gif" />
+<img align="right" height="240" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmU1aTI2c214eXpicG1icXY3cWNnem1ob2ZxdjZkd2FjMmhxMHFyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/boYxZ1fa72kcgr70sN/giphy.gif" />
 
 ###
 <div align="left">
