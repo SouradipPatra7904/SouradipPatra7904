@@ -13,7 +13,7 @@ Currently working on my **Enterprise Eye-catcher Projects** — a set of Java & 
 
 ###
 <br/>
-<img align="right" height="240" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmU1aTI2c214eXpicG1icXY3cWNnem1ob2ZxdjZkd2FjMmhxMHFyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/boYxZ1fa72kcgr70sN/giphy.gif" />
+<img align="right" height="240" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmU1aTI2c214eXpicG1icXY3cWNnem1ob2ZxdjZkd2FjMmhxMHFyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/boYxZ1fa72kcgr70sN/giphy.gif"/>
 
 ###
 <div align="left">
@@ -41,6 +41,14 @@ Currently working on my **Enterprise Eye-catcher Projects** — a set of Java & 
   <!-- Databases & Networking -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
+  <!--
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  -->
+  <!--
+  <img src="https://symbols.getvecta.com/stencil_261/2_apache-cassandra.a6e8516e93.svg" height="40" alt="cassandra logo" />
+  <img width="12" />
+  -->
   <!-- API specifications -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL logo" />
   <img width="12" />
@@ -49,12 +57,18 @@ Currently working on my **Enterprise Eye-catcher Projects** — a set of Java & 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
   <img width="12" />
+  <!--
+  <img src="https://zesty.co/wp-content/uploads/2024/11/minikube.png" height="40" alt="MiniKube logo" />
+  <img width="12" />
   -->
+  <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" height="40" alt="Nginx logo" />
+  <img width="12" />
+  <!--
   <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/fav32.png" height="40" alt="Grafana logo" />
   <img width="12" />
+  -->
   <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins logo" />
   <img width="12" />
