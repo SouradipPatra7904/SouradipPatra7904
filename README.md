@@ -1,10 +1,21 @@
 **Hello, I am Souradip Patra 👋**
 
-> "Building from bare metal to enterprise scale."
+> Back-end wizard, Java specialist and Linux enthusiast.
 
-I’m a **Backend Engineer in the making** with a passion for **event-driven architecture**, **distributed backends**, and **enterprise-grade Java applications**.  
-Currently working on my **Enterprise Eye-catcher Projects** — a set of Java & Spring Boot projects designed to master the full backend enterprise & microservices ecosystem. 
-
+I'm a Backend Engineer in the making, passionate about building robust, scalable, and maintainable systems. My focus is on mastering the full backend enterprise and microservices ecosystem, with a particular interest in:
+  - Event-Driven Architecture
+  - Distributed Systems
+  - Enterprise-Grade Java Applications
+---
+My Skills :
+  - Core Technologies:
+  > Java, Spring Boot, Hibernate, JDBC, Netty, Jbang, Maven
+  - Data & Messaging:
+  > PostgreSQL, GraphQL, Apache Kafka, Apache Lucene
+  - Infrastructure & DevOps:
+  > Docker, Kubernetes (MiniKube), Nginx, Tomcat, Prometheus
+  - Version Control:
+  > Git, GitHub
 ---
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=SouradipPatra7904&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouradipPatra7904&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=midnight-purple&bg_color=000000&hide_border=true&show_icons=true)
