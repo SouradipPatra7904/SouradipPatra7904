@@ -8,13 +8,15 @@ I'm a Backend Engineer in the making, passionate about building robust, scalable
   - Enterprise-Grade Java Applications
 ---
 My Skills :
-  - Core Technologies:
+  - Core Technologies :
   > Java, Spring Boot, Hibernate, JDBC, Netty, Jbang, Maven
-  - Data & Messaging:
+  - Database & Messaging :
   > PostgreSQL, GraphQL, Apache Kafka, Apache Lucene
-  - Infrastructure & DevOps:
-  > Docker, Kubernetes (MiniKube), Nginx, Tomcat, Prometheus
-  - Version Control:
+  - Observability :
+  > Micrometer, Prometheus, Jaegar, Open Telemetry, Grafana
+  - Infrastructure & DevOps :
+  > Docker, Kubernetes (MiniKube), Nginx
+  - Version Control :
   > Git, GitHub
 ---
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=SouradipPatra7904&show_icons=true&rank_icon=github&theme=midnight-purple&card_width=280&hide_border=true&show_icons=true)
