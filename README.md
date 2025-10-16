@@ -6,6 +6,9 @@ I'm a Backend Engineer in the making, passionate about building robust, scalable
   - Event-Driven Architecture
   - Distributed Systems
   - Enterprise-Grade Java Applications
+
+Here's my <a href="https://souradippatra-dev.netlify.app/" target="_blank"> Portfolio </a> if you're interested!
+
 ---
 My Skills :
   - Core Technologies :
@@ -129,6 +132,8 @@ My Skills :
 <div align="left">
   
   <a href="https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/souradip-patra-31574a253/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+  <a href="https://souradippatra-dev.netlify.app/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a>
   <a href="mailto:souradip.patra.2004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
   <a href="https://www.instagram.com/iblamepatro/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> </a>
+  
 </div>
