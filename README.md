@@ -50,6 +50,8 @@ My Skills :
   <!-- Networking-->
   <img src="https://avatars.githubusercontent.com/u/473791?s=200&v=4" height="40" alt="netty logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/akka/akka-original.svg" height="40" alt="akka logo" />
+  <img width="12" />
   <img src="https://www.apache.org/logos/originals/lucene.svg" height="40" alt="apache lucene logo" />
   <img width="12" />
   <br/><br/>
@@ -57,6 +59,9 @@ My Skills :
   <!-- Databases & Networking -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+
   <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
@@ -77,12 +82,14 @@ My Skills :
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
   <img width="12" />
-  <!--
   <img src="https://zesty.co/wp-content/uploads/2024/11/minikube.png" height="40" alt="MiniKube logo" />
   <img width="12" />
-  -->
+
   <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" height="40" alt="Nginx logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/ngrok/8A2BE2" height="60" alt="ngrok logo" />
+  <img width="18" />
+
   <!--
   <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/fav32.png" height="40" alt="Grafana logo" />
   <img width="12" />
@@ -91,8 +98,8 @@ My Skills :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins logo" />
   <img width="12" />
   -->
-  <img src="https://i.ibb.co/Q7ksH8BQ/WIDE-White-on-Transparent.png" alt="ICON-White-on-Transparent" height="40" alt="kafka logo" />
-  <img width="12" />
+  <img src="https://i.ibb.co/Q7ksH8BQ/WIDE-White-on-Transparent.png" alt="ICON-White-on-Transparent" height="60" alt="kafka logo" />
+  <img width="18" />
   <br/><br/>
   
   <!-- Systems & Core Languages -->
@@ -104,7 +111,8 @@ My Skills :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" style="filter: brightness(0) invert(1);" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" height="40" alt="Zsh logo" style="filter: brightness(0) invert(1);" />
-  <img width="12" />  
+  <img width="12" />
+
   <!-- Git & GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" style="filter: brightness(0) invert(1);" />
   <img width="12" />
