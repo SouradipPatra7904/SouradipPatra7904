@@ -52,8 +52,6 @@ My Skills :
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/akka/akka-original.svg" height="40" alt="akka logo" />
   <img width="12" />
-  <img src="https://www.apache.org/logos/originals/lucene.svg" height="40" alt="apache lucene logo" />
-  <img width="12" />
   <br/><br/>
   
   <!-- Databases & Networking -->
@@ -87,7 +85,7 @@ My Skills :
 
   <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" height="40" alt="Nginx logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ngrok/8A2BE2" height="60" alt="ngrok logo" />
+  <img src="https://cdn.simpleicons.org/ngrok/8A2BE2" height="40" alt="ngrok logo" />
   <img width="18" />
 
   <!--
@@ -98,8 +96,10 @@ My Skills :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins logo" />
   <img width="12" />
   -->
-  <img src="https://i.ibb.co/Q7ksH8BQ/WIDE-White-on-Transparent.png" alt="ICON-White-on-Transparent" height="60" alt="kafka logo" />
+  <img src="https://i.ibb.co/Q7ksH8BQ/WIDE-White-on-Transparent.png" alt="ICON-White-on-Transparent" height="40" alt="kafka logo" />
   <img width="18" />
+  <img src="https://www.apache.org/logos/originals/lucene.svg" height="40" alt="apache lucene logo" />
+  <img width="12" />
   <br/><br/>
   
   <!-- Systems & Core Languages -->
