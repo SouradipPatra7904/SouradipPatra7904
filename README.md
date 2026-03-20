@@ -13,8 +13,10 @@ Here's my <a href="https://souradippatra-dev.netlify.app/" target="_blank"> Port
 My Skills :
   - Core Technologies :
   > Java, Spring Boot, Hibernate, JDBC, Netty, Jbang, Maven
+  - Back-end Architectures :
+  > REST API, GraphQL, Micro-Services, Event Driven Architecture
   - Database & Messaging :
-  > PostgreSQL, GraphQL, Apache Kafka, Apache Lucene
+  > PostgreSQL, Apache Kafka, Apache Lucene
   - Observability :
   > Micrometer, Prometheus, Jaegar, Open Telemetry, Grafana
   - Infrastructure & DevOps :
@@ -50,8 +52,10 @@ My Skills :
   <!-- Networking-->
   <img src="https://avatars.githubusercontent.com/u/473791?s=200&v=4" height="40" alt="netty logo" />
   <img width="12" />
+  <!-- AKKA not learnt yet!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/akka/akka-original.svg" height="40" alt="akka logo" />
   <img width="12" />
+  -->
   <br/><br/>
   
   <!-- Databases & Networking -->
